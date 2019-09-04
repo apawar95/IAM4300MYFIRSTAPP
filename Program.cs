@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IAM4300MYFIRSTAPP
+namespace ISM4300MYFIRSTAPP
 {
     class Program
     {
